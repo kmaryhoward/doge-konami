@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.15rem; 
+}
+
+p {
+  padding-left:3rem;
+  padding-right:3rem;
+  text-align: center;
+}
+
+.symbol {
+  letter-spacing: 1.25rem;
+  font-size: 1.5rem;
+  color: #FC9E4F;
+  font-weight: bold;
+}
+
+.action_call {
+  text-transform: uppercase;
+  
+  color: #FF521B;
+  font-weight: bold;
+}
+
+img {
+  max-width: 60%;
+}
+
+
